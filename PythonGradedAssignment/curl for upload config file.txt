@@ -1,0 +1,2 @@
+curl --location 'http://127.0.0.1:5000/api/upload_configration_file' \
+--form 'file=@"/E:/DevOps/GradedAssignment/sample_config.txt"'

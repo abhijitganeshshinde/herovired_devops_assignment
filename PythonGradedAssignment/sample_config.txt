@@ -1,0 +1,17 @@
+[Database]
+
+host = localhost
+
+port = 3333
+
+username = admin123
+
+password = secrets312
+
+ 
+
+[Server]
+
+address = 192.168.0.0
+
+port = 8080
