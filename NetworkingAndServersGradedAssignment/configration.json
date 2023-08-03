@@ -1,0 +1,20 @@
+{
+    "Configuration": {
+        "SleepTime": 60,
+        "Domains": [
+            {
+                "Domain": "https://herovired.com",
+                "SubDomains": [
+                    "https://vlearnv.herovired.com"
+                ]
+            },
+            {
+                "Domain": "https://github.com",
+                "SubDomains": [
+                    "https://gist.github.com",
+                    "https://developer.github.com"
+                ]
+            }
+        ]
+    }
+}
